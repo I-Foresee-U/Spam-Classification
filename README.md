@@ -1,4 +1,5 @@
-#Spam-Classification
+# Spam-Classification
+
 This "Code" folder contains 4 .m files that correspond to the implementation of the 4 questions separately.
 
 They can be run directly and independently. 
