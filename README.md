@@ -4,6 +4,8 @@ The problem description is shown in "EE5907_EE5027_SPAM.pdf".
 
 The results are shown in "**Report.pdf**".
 
+---
+
 This "Code" folder contains 4 .m files that correspond to the implementation of the 4 questions separately.
 
 They can be run directly and independently. 
